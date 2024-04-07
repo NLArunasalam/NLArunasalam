@@ -1,13 +1,13 @@
 ## 👋 ¡Bienvenido a mi bitácora tech:computer:!
 
-Soy Nagammah L. Arunasalam, *estudiante de Desarrollo de Aplicaciones Web* en Edix.
+Soy Nagammah L. Arunasalam, *estudiante de Desarrollo de Aplicaciones Web.
 
 Disfrutando y creciendo🌱 con la aventura.
 
 #### :abacus: OBJETIVOS
 - [x] Atreverme a estudiar lo que me gusta, desconozco y me hace salir de mi zona de confort.
 - [x] Aprobar primero de DAW (sin perder el pelo)
-- [ ] Y segundo.
+- [x] Y segundo.
 - [x] _Comenzar a compartir mis tareas y proyectos_ 
  
 #### :open_file_folder: APRENDIENDO
