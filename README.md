@@ -1,6 +1,6 @@
-## 👋 ¡Bienvenido a mi bitácora tech:computer:!
+## 👋 ¡Bienvenido a mi bitácora!
 
-Soy Nagammah L. Arunasalam, *estudiante de Desarrollo de Aplicaciones Web.
+Soy Nagammah L. Arunasalam, estudiante de Desarrollo de Aplicaciones Web.
 
 Disfrutando y creciendo🌱 con la aventura.
 
